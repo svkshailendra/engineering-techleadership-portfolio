@@ -23,7 +23,8 @@ Start here:
   - [ADR-003: ML.NET Fallback for OpenAI](decisions/adr-003-mlnet-fallback-openai.md)
   - [ADR-004: Choosing Team Structure](decisions/adr-004-team-structure-options.md)
   - [ADR-005: Choosing Tech Stack](decisions/adr-005-tech-stack-evaluation.md)
-
+  - [ADR-006: Choosing Service bus topology](decisions/adr-006-service-bus-topology.md)
+  - [ADR-007: Choosing In-Memory Session Scope](decisions/adr-007-in-memory-session-scope.md)
 
 ![Playbooks](https://img.shields.io/badge/Section-Playbooks-blue)
  
@@ -31,6 +32,18 @@ Start here:
   - [One-on-One Meetings](playbooks/one-on-one.md)  
   - [Retrospectives](playbooks/retrospectives.md)
   - [Incident Response](playbooks/incident-response.md)
+
+![Delivery Practices](https://img.shields.io/badge/Section-Delivery%20Practices-yellow)
+
+These playbooks capture the delivery rituals I use to keep teams aligned, resilient, and continuously improving:
+
+- **One‑on‑Ones** → Coaching conversations that build trust and drive growth.  
+- **Retrospectives** → Structured reflection sessions with rotating facilitators and actionable follow‑ups.  
+- **Incident Response** → Clear roles, workflows, and metrics to restore service quickly and learn from failures.  
+- **Postmortems** *(see Templates)* → Root cause analysis and systemic improvements beyond quick fixes.  
+
+Together, these practices make invisible leadership work visible — showing how I drive predictable delivery outcomes and foster learning loops.
+
 
 ![Templates](https://img.shields.io/badge/Section-Templates-green)
   
